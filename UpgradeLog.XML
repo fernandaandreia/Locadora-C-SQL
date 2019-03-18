@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LocadoraNoite_2019">
+</Property><Property Name="Arquivo de Solução" Value="C:\Users\alunos\Desktop\LocadoraNoite_2019\LocadoraNoite_2019.sln">
+</Property><Property Name="Arquivo de Opções do usuário" Value="C:\Users\alunos\Desktop\LocadoraNoite_2019\LocadoraNoite_2019.suo">
+</Property><Property Name="Date" Value="segunda-feira, 25 de fevereiro de 2019">
+</Property><Property Name="Time" Value="19:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LocadoraNoite_2019.sln" Description="O backup do arquivo como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019.sln foi feito com êxito">
+</Event><Event ErrorLevel="0" Project="" Source="LocadoraNoite_2019.suo" Description="O backup do arquivo como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019.suo foi feito com êxito">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\LocadoraNoite_2019.csproj" Description="O backup do arquivo de projeto foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\LocadoraNoite_2019.csproj">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Form1.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Form1.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Form1.Designer.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Menu.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Menu.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Menu.Designer.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Menu.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Program.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Program.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Properties\AssemblyInfo.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Properties\Resources.Designer.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Properties\Settings.Designer.cs" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Properties\Settings.settings" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Form1.resx" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Menu.resx" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Menu.resx">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\Properties\Resources.resx" Description="O backup do arquivo foi concluído com êxito como C:\Users\alunos\Desktop\LocadoraNoite_2019\Backup\LocadoraNoite_2019\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\LocadoraNoite_2019.csproj" Description="Projeto convertido com sucesso">
+</Event><Event ErrorLevel="3" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\LocadoraNoite_2019.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LocadoraNoite_2019.sln" Description="Solução convertida com êxito">
+</Event><Event ErrorLevel="3" Project="" Source="LocadoraNoite_2019.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LocadoraNoite_2019" Source="LocadoraNoite_2019\LocadoraNoite_2019.csproj" Description="Escaneamento completo: Atualização não requerida para arquivos de projeto.">
+</Event></UpgradeLog>
